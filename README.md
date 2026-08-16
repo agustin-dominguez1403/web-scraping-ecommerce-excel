@@ -36,7 +36,8 @@ The script extracts the following fields for each product:
 2. Install dependencies:
    ```bash
    pip install requests beautifulsoup4 pandas openpyxl
-
-1. Clone or download the repository:
+3. Run the script:
+   ```bash
+   python proyecto_integrador.py
    ```bash
    git clone [https://github.com/TU_USUARIO/web-scraping-ecommerce-excel.git](https://github.com/TU_USUARIO/web-scraping-ecommerce-excel.git)
