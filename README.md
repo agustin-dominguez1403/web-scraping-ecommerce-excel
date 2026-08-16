@@ -32,6 +32,10 @@ The script extracts the following fields for each product:
 ---
 
 ## ⚙️ How to Run
+1. Clone or download the repository.
+2. Install dependencies:
+   ```bash
+   pip install requests beautifulsoup4 pandas openpyxl
 
 1. Clone or download the repository:
    ```bash
